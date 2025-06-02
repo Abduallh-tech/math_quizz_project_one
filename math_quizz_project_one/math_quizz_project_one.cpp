@@ -1,5 +1,5 @@
-// Math Quiz Game - Professionally Refactored and Documented
-// Author: [Your Name]
+// Math Quiz Game For beginners 
+// Author: [Abdullah Alameri]
 // Description: Console-based math quiz game with multiple difficulty levels and operation types.
 
 #include <iostream>
